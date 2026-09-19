@@ -5,23 +5,23 @@
 
 const members = [
   {
-    name: "Nama Anggota 1",
+    name: "Naell",
     role: "Frontend Developer",
-    image: "https://i.pinimg.com/736x/fc/af/7a/fcaf7aec4b7be05a0d062eff7851d2aa.jpg",
+    image: "https://ibb.co.com/5Wq1Sjw5",
     description: "Saya fokus membangun tampilan web yang rapi, responsif, dan mudah digunakan melalui struktur HTML dan desain antarmuka yang konsisten.",
     skills: ["HTML", "CSS", "JavaScript"]
   },
   {
-    name: "Nama Anggota 2",
+    name: "Bima",
     role: "UI/UX Designer",
-    image: "https://i.pravatar.cc/300?img=47",
+    image: "https://ibb.co.com/5Wq1Sjw5",
     description: "Saya merancang pengalaman pengguna yang sederhana, menarik, dan mudah dipahami dengan memperhatikan kebutuhan pengguna di setiap halaman.",
     skills: ["Figma", "Wireframing", "Prototyping"]
   },
   {
-    name: "Nama Anggota 3",
+    name: "Rangga+++++++++++++++++++++++++++++++++",
     role: "JavaScript Developer",
-    image: "https://i.pravatar.cc/300?img=12",
+    image: "https://ibb.co.com/5Wq1Sjw5",
     description: "Saya mengembangkan interaksi halaman yang dinamis dan memastikan setiap fitur berjalan lancar, cepat, serta nyaman digunakan.",
     skills: ["JavaScript", "DOM", "Git"]
   }
